@@ -1,0 +1,51 @@
+            GET Requests (i want something) 
+            
+                 Client takes <- from the Server
+                 
+            
+            POST Requests (i give something)
+            
+                 Submit Button for POST Requests
+                 
+                 Client posts -> to the Server
+                 
+               ASYNCH Requests 
+              
+                 will delete for example just in the backend , but will not extra refresh the website to see the changes
+                 
+                 
+                 
+            RELATIVE PATH
+            
+                is looking for the file in the current directory/folder
+            
+            
+            
+            STRICT PATH ?
+            
+                is looking fir the file whereever it is     we have to use __dirname (directory name)
+                
+                
+            API
+            
+                endpoint:   starting url                                                  https://......
+                path:       for specific type of data (like a filter for the json data)   https://....../.../.../...
+                parameters: for specific type of data (like a filter for the json data)   https://....../.../.../...
+            
+            JSON data
+            
+                we got json data if we are using an API
+                
+            
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+           
+                 
+            
+            
+            
