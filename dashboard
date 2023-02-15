@@ -42,10 +42,30 @@
             
                 we got json data if we are using an API
                 
+                Syntax:
+                
+                            {
+                            "tasks": [
+                            {
+                              "id": "1",
+                              "text": "learn programming",
+                              "day": "everyday"
+                            },
+                            {
+                              "id": "2",
+                              "text": "working",
+                              "day": "weekdays"
+                            }
+                          ]
+                        }
+                
                 
                 JSON.parse
                 
                 
+                
+            
+            SCRIPT
             
             <script>
             
