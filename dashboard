@@ -11,7 +11,9 @@
                  
                ASYNCH Requests 
               
-                 will delete for example just in the backend , but will not extra refresh the website to see the changes
+                 will delete for example just in the backend (behind the scenes), but will not extra refresh the website to see the changes
+                 
+                 async await is OPTIONAL -> its doing the same like promises then and catch
                  
                  
                  
@@ -39,6 +41,9 @@
             JSON data
             
                 we got json data if we are using an API
+                
+                
+                JSON.parse
                 
                 
             
