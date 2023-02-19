@@ -91,6 +91,14 @@
                    
                    into html file:
                    <script src="https://maps.googleapis.com/maps/api/js?key= APIKEY
+                   
+                   
+                   npm install @types/google.maps
+                   
+                   
+                   add this to the index.ts in the first line
+                   /// <reference types="@types/google.maps" />
+
             
                  
                  
