@@ -98,6 +98,19 @@
                    
                    add this to the index.ts in the first line
                    /// <reference types="@types/google.maps" />
+                   
+                   
+                   / actually works without cause we have no err
+                   tells ts there is a global var called google and all the different functions and properties it has
+                   npm install --save @types/google.maps
+                   
+                   
+                   
+            
+            GLOBAL VARIABLE
+            
+                  doesnt need to be extra imported or exported (import / export statements)
+                  is avaiable everywhere in out project
 
             
                  
