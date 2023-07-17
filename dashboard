@@ -75,7 +75,7 @@
             
             
             
-            LOOPS
+            FOR LOOP
             
                for (let i = 0; i < cars.length; i++) {
                          text += cars[i] + "<br>";
@@ -122,10 +122,17 @@
                   
                   
                   
-                  
              DATENSCHUTZERKLÄRUNG
             
                   https://www.rechtsdokumente.de/vertraege/Datenschutzerklaerung/?
+
+
+
+
+            PASSING BY VALUES & PASSING BY REFERENCES (WHEN DEALING WITH FUNCTIONS)
+
+                  JS has NOT passing by reference
+                  JS has ONLY passing by VALUE
 
             
                  
