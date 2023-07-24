@@ -60,14 +60,17 @@
                         }
                 
                 
-                JSON.parse
+                JSON.parse               // ?????
+
+                //
+                JSON.stringify() // -> static method converts a JavaScript value to a JSON string
                 
                 
                 
             
             SCRIPT
             
-            <script>
+                <script>
             
                 we use them in external file, like script.js
                 
@@ -86,7 +89,6 @@
             
             
             GOOGLE MAPS adding
-            
             
                    Simple Screenshot implementation:
                    https://www.youtube.com/watch?v=OP8tK9hQNuo&ab_channel=oneminutecoder
