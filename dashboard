@@ -41,6 +41,8 @@
             JSON data (Javascript Object Notation)
             
                 we got json data if we are using an API
+                        
+                        FAKE API: https://jsonplaceholder.typicode.com
                 
                 Syntax:
                 
