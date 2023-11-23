@@ -15,30 +15,38 @@
                  
                  async await is OPTIONAL -> its doing the same like promises then and catch
                  
-                 
+
+
                  
             RELATIVE PATH
+            _____________
             
                 is looking for the file in the current directory/folder
             
-            
+
+
             
             STRICT PATH ?
+            ___________
             
                 is looking fir the file whereever it is     we have to use __dirname (directory name)
                 
-                
+
+
                 
             API
+            ___
             
                 endpoint:            starting url                                                  https://......
                 path:                for specific type of data (like a filter for the json data)   https://....../.../.../...
                 parameters:          for specific type of data (like a filter for the json data)   https://....../.../.../...
                 authentication:      companies use this for example to -> limit the access to the api they offer
             
-            
+
+
             
             JSON data (Javascript Object Notation)
+            ______________________________________
             
                 we got json data if we are using an API
                         
@@ -71,6 +79,7 @@
                 
             
             SCRIPT
+            ______
             
                 <script>
             
@@ -78,9 +87,11 @@
                 
                 we add  <script src=script.js>  in the html or ejs file at the end
             
-            
+
+
             
             FOR LOOP
+            ________
             
                for (let i = 0; i < cars.length; i++) {
                          text += cars[i] + "<br>";
@@ -89,12 +100,11 @@
             
             
             
-            
-            GOOGLE MAPS adding
+            GOOGLE MAPS integration
+            ________________________
             
                    Simple Screenshot implementation:
                    https://www.youtube.com/watch?v=OP8tK9hQNuo&ab_channel=oneminutecoder
-                   
                    
                    
             
@@ -119,14 +129,16 @@
                    
             
             GLOBAL VARIABLE
-            
+            _______________
+
                   doesnt need to be extra imported or exported (import / export statements)
                   is avaiable everywhere in out project
                   
                   
                   
                   
-             DATENSCHUTZERKLÄRUNG
+            DATENSCHUTZERKLÄRUNG
+            ____________________
             
                   https://www.rechtsdokumente.de/vertraege/Datenschutzerklaerung/?
 
@@ -134,6 +146,7 @@
 
 
             PASSING BY VALUES & PASSING BY REFERENCES (WHEN DEALING WITH FUNCTIONS)
+            _______________________________________________________________________
 
                   JS has NOT passing by reference
                   JS has ONLY passing by VALUE
